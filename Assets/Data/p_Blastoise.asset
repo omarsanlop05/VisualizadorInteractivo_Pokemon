@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709af6fbada0e3143a1e261ff5705dce, type: 3}
+  m_Name: p_Blastoise
+  m_EditorClassIdentifier: 
+  names:
+  - Squirtle
+  - Wartortle
+  - Blastoise
+  - Mega-Blastoise
+  sprites:
+  - {fileID: 21300000, guid: aaec19908f88a5c479ecc5e934b7e636, type: 3}
+  - {fileID: 21300000, guid: aae58872879014b4b8064037c43f57ce, type: 3}
+  - {fileID: 21300000, guid: 7894deddff3f3da46b6945fb2a64e795, type: 3}
+  - {fileID: 21300000, guid: 52613211296c3c54794f58ec4023cf56, type: 3}
+  stages:
+  - {fileID: 6766159463962003076, guid: 9f34f133178f51d429399e71892fedf4, type: 3}
+  - {fileID: 8606573129591042593, guid: 528fadf2ec99c1340a1c400a225c0545, type: 3}
+  - {fileID: 5127564866704264949, guid: 6463e27147a9ac2408b5590bb6416297, type: 3}
+  - {fileID: 2580168919128057534, guid: 031047a7bd761ef4d8b421646a6d97c0, type: 3}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709af6fbada0e3143a1e261ff5705dce, type: 3}
+  m_Name: p_Chamander
+  m_EditorClassIdentifier: 
+  names:
+  - Chamander
+  - Charmeleon
+  - Charizard
+  - Mega-Charizard X
+  - Mega-Charizard Y
+  sprites:
+  - {fileID: 21300000, guid: fd49f80b18c5cf345a63dd15bf548115, type: 3}
+  - {fileID: 21300000, guid: dbb15cb400b443045a2bfc3d4499cd8e, type: 3}
+  - {fileID: 21300000, guid: 0a18171344619ed40972fa78d9e8c87d, type: 3}
+  - {fileID: 21300000, guid: fce463baccc11974182b8cce2944593c, type: 3}
+  - {fileID: 21300000, guid: 3536b9a0dd0f3d74ca407f477ccbe057, type: 3}
+  stages:
+  - {fileID: 2675946166892655898, guid: bf08cef470b05bb4db72c0829aad9a42, type: 3}
+  - {fileID: 7485541060567052704, guid: c00942a774d438e43b31e2a1ef1d61bd, type: 3}
+  - {fileID: 4022851778364815837, guid: d5397dc7772dd9c41893b2e3958ebdcf, type: 3}
+  - {fileID: 4108073692930674391, guid: 268bfa108b5481c41b6a5c8a1110dd42, type: 3}
+  - {fileID: 7890501555713393015, guid: d6e0a0caecbd4964ebe76356a519b3fe, type: 3}
