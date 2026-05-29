@@ -11,8 +11,8 @@ public class Pokemon : MonoBehaviour
 
     public void Init(PokemonSO pokemonSO)
     {
-        titleTxt.text = pokemonSO.names[0];
-        pokemonSprite.sprite = pokemonSO.sprites[0];
+        titleTxt.text = pokemonSO.pokemon_name;
+        pokemonSprite.sprite = pokemonSO.sprite;
     }
 
     public void SetButton(UnityAction callback)

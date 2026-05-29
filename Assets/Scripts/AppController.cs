@@ -4,21 +4,21 @@ using UnityEngine.UI;
 
 public class AppController : MonoBehaviour
 {
-    [Header("UI - Selector (Arriba)")]
-    public TextMeshProUGUI titleTxt;
-    public Pokemon pokemonPrefab;
-    public Transform pokemonContainer; // Layout Group para las 3 Pokeballs
-
-    [Header("UI - Menú Batalla (Abajo)")]
+    [Header("UI - Menú Batalla (Arriba)")]
     public Button btnIdle;
     public Button btnRun;
     public Button btnFightIdle;
     public Button btnFireball;
     public Button btnFlipKick;
 
+    [Header("UI - Selector (Abajo)")]
+    public TextMeshProUGUI titleTxt;
+    public Pokemon pokemonPrefab;
+    public Transform pokemonContainer;
+
     [Header("AR y Datos")]
-    public PokemonObject pokemonObject; // Arrastra tu Model Target aquí
-    public PokemonSO[] data; // Arrastra a Blaziken, Greninja y Lucario aquí
+    public PokemonObject pokemonObject;
+    public PokemonSO[] data;
 
     private Animator _currentAnimator;
 
@@ -53,10 +53,10 @@ public class AppController : MonoBehaviour
     private void PutPokemon(PokemonSO pokemonSO)
     {
         // Actualizamos el nombre en la UI
-        titleTxt.text = pokemonSO.names[0];
+        titleTxt.text = pokemonSO.pokemon_name;
 
         // Instanciamos el modelo 3D (usamos stage[0] porque ya no hay evoluciones)
-        GameObject spawnedModel = pokemonObject.SetObject(pokemonSO.stages[0]);
+        GameObject spawnedModel = pokemonObject.SetObject(pokemonSO.model);
 
         // Obtenemos el Animator del nuevo Pokémon para poder animarlo
         if (spawnedModel != null)
