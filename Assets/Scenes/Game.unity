@@ -1171,11 +1171,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c45b7a9f4471309449170939d7b3d911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  btnIdle: {fileID: 0}
-  btnRun: {fileID: 0}
-  btnFightIdle: {fileID: 0}
-  btnFireball: {fileID: 0}
-  btnFlipKick: {fileID: 0}
+  btnIdle: {fileID: 1735436935}
+  btnRun: {fileID: 2049804537}
+  btnFightIdle: {fileID: 1559123479}
+  btnFireball: {fileID: 692062689}
+  btnFlipKick: {fileID: 116894305}
   titleTxt: {fileID: 458958712}
   pokemonPrefab: {fileID: 7796709297611637944, guid: 09d74db5ea51037478018a69622d6a47, type: 3}
   pokemonContainer: {fileID: 205132251}
