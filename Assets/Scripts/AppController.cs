@@ -45,9 +45,9 @@ public class AppController : MonoBehaviour
         // Asignamos los triggers del Animator a cada botón
         btnIdle.onClick.AddListener(() => PlayAnim("Idle"));
         btnRun.onClick.AddListener(() => PlayAnim("Run"));
-        btnFightIdle.onClick.AddListener(() => PlayAnim("Fight"));
+        btnFightIdle.onClick.AddListener(() => PlayAnim("Fighting_Idle"));
         btnFireball.onClick.AddListener(() => PlayAnim("Fireball"));
-        btnFlipKick.onClick.AddListener(() => PlayAnim("Kick"));
+        btnFlipKick.onClick.AddListener(() => PlayAnim("Flip_Kick"));
     }
 
     private void PutPokemon(PokemonSO pokemonSO)
