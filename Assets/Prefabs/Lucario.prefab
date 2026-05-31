@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &7831618401510477428
+--- !u!1001 &1020887350448312872
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -72,17 +72,6 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: fe4ae0e0781aba54db2e0d45f34a2f16, type: 2}
-    - target: {fileID: 5866666021909216657, guid: 450151dc555990b47b8070c47db220f2, type: 3}
-      propertyPath: m_WarningMessage
-      value: "\nBinding warning: Some generic clip(s) animate transforms that are
-        already bound by a Humanoid avatar. These transforms can only be changed
-        by Humanoid clips.\n\tTransform 'RHand'\n\tTransform 'REar1'\n\tTransform
-        'LFoot'\n\tTransform 'RForeArm'\n\tTransform 'RLeg'\n\tTransform 'RArm'\n\tTransform
-        'LHand'\n\tTransform 'LArm'\n\tTransform 'LLeg'\n\tTransform 'RShoulder'\n\tand
-        more ...\n\tFrom animation clip 'Idle'\n\tFrom animation clip 'Run'\n\tFrom
-        animation clip 'Bouncing Fight Idle'\n\tFrom animation clip 'Fireball'\n\tFrom
-        animation clip 'Flip Kick'"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

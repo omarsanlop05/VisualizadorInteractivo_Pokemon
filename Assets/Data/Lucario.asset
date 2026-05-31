@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemon_name: Lucario
   sprite: {fileID: 21300000, guid: 12355743ed66116499a16a44b6b221b9, type: 3}
-  model: {fileID: 6948516154255930149, guid: 5f3f4285ed5aaca4d8305f2f88f6d4b1, type: 3}
+  model: {fileID: 210405238088429433, guid: 5f3f4285ed5aaca4d8305f2f88f6d4b1, type: 3}

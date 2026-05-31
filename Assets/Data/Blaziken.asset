@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemon_name: Blaziken
   sprite: {fileID: 21300000, guid: 241c86d4b6e0b4b448ff987b12a5cc14, type: 3}
-  model: {fileID: 6618927054826588219, guid: c032b6bcecf4a6241ac1ecd92b3676db, type: 3}
+  model: {fileID: 7116644755703014993, guid: c032b6bcecf4a6241ac1ecd92b3676db, type: 3}

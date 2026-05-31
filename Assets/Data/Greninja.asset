@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemon_name: Greninja
   sprite: {fileID: 21300000, guid: 44f92de7cb42cf84ebc071370b71278f, type: 3}
-  model: {fileID: 429281749469179280, guid: 53ca55e5c4b45be43b6cfcb7476ca8e4, type: 3}
+  model: {fileID: 786978723548252502, guid: 53ca55e5c4b45be43b6cfcb7476ca8e4, type: 3}
