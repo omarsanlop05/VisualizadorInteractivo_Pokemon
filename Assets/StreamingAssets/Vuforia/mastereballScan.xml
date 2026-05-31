@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="mastereballScan" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="mastereballScans_assembly" assemblyId="5e2245d36da043c6ae63f8cc9abd62d8">
+<Part name="mastereballScan" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00142081 0.0303099 0.223607" rotation="AD: -0.599905 -0.808581 6.90153 178.845" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

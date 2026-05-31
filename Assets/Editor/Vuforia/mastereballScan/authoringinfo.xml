@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="mastereballScan" targetId="20188fb76712473eba537cf100000ea2" version="14.0" toolVersion="11.4.4" bbox="-0.0385052 0.00102368 -0.0378965 0.0349727 0.0622935 0.0341995" upVector="0 1 0" previewImage="20188fb76712473eba537cf100000ea2_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="mastereballScans_assembly" assemblyId="5e2245d36da043c6ae63f8cc9abd62d8">
+<Part name="mastereballScan" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00142081 0.0303099 0.223607" rotation="AD: -0.599905 -0.808581 6.90153 178.845" image="mastereballScan_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
