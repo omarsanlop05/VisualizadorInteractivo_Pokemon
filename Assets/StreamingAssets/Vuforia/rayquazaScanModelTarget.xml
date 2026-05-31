@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="rayquazaScanModelTarget" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="rayquazaScanModelTargets_assembly" assemblyId="a7501a33f83a47a5964ffe91eb96e122">
+<Part name="rayquazaScanModelTarget" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0147892 0.0687336 0.339583" rotation="AD: 0.989355 -0.218369 0.929137 199.201" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

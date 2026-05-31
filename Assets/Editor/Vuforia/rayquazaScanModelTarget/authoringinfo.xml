@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="rayquazaScanModelTarget" targetId="2a3dc5dbf389434286fff740666ad443" version="14.0" toolVersion="11.4.4" bbox="-0.0685895 0.00100942 -0.0545889 0.0650045 0.151669 0.0840004" upVector="0 1 0" previewImage="2a3dc5dbf389434286fff740666ad443_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="rayquazaScanModelTargets_assembly" assemblyId="a7501a33f83a47a5964ffe91eb96e122">
+<Part name="rayquazaScanModelTarget" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0147892 0.0687336 0.339583" rotation="AD: 0.989355 -0.218369 0.929137 199.201" image="rayquazaScanModelTarget_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
