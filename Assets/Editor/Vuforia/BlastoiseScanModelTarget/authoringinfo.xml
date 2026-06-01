@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="BlastoiseScanModelTarget" targetId="3d57bc0a07754d0c98d801e39493ff62" version="14.0" toolVersion="11.4.4" bbox="-0.0143125 0.000264621 -0.0338873 0.0306846 0.0642786 0.0275612" upVector="0 1 0" previewImage="3d57bc0a07754d0c98d801e39493ff62_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="BlastoiseScanModelTargets_assembly" assemblyId="c67274aba25a4505a5b961fd53fb3601">
+<Part name="BlastoiseScanModelTarget" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00316813 0.0331253 0.144781" rotation="AD: -0.992542 -0.174999 0.993157 165.908" image="BlastoiseScanModelTarget_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

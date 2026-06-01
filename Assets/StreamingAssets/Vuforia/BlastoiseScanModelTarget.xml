@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="BlastoiseScanModelTarget" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="BlastoiseScanModelTargets_assembly" assemblyId="c67274aba25a4505a5b961fd53fb3601">
+<Part name="BlastoiseScanModelTarget" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00316813 0.0331253 0.144781" rotation="AD: -0.992542 -0.174999 0.993157 165.908" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
